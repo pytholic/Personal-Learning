@@ -1,5 +1,5 @@
 # Courses
-* Stanford CS231n
+* Stanford CS231N
 * Stanford CS224N
 * Andrew Ng
 * Coursera
